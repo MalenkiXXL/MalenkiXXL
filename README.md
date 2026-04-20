@@ -50,5 +50,5 @@ fal przeciwników oraz zaprogramowanie responsywnego kontrolera postaci.
 ### 📫 Skontaktuj się ze mną
 
 * 🌐 **Portfolio:** [oskarkonecki.pl](https://oskarkonecki.pl/)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/oskar-konecki-936142355/?skipRedirect=true]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/oskar-konecki-936142355/?skipRedirect=true](https://www.linkedin.com/in/oskar-konecki-936142355/?skipRedirect=true)
 * 📧 **Email:** oskarkonecki@gmail.com
