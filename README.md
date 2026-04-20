@@ -41,9 +41,9 @@ Obecnie (w ramach projektu ZTGK) rozwijam od zera niskopoziomowy silnik gier w *
 
 * **[Catnetic Storm]** - Gra 2D (Unity/C#). Implementacja logiki decyzyjnej przeciwników z użyciem maszyn stanów, logika przechodzenia gry, w tym menedżer pokojów oraz systemów generowania 
 fal przeciwników oraz zaprogramowanie responsywnego kontrolera postaci.
-Link do gry: https://raspberrycola.itch.io/catnetic-storm
+<br>Link do gry: https://raspberrycola.itch.io/catnetic-storm
 * **[GroWirus]** - Gra 3D (Unity/C#). Implementacja ruchu 3D, obsługi kamer, zaimplementowanie fizycznych interakcji z otoczeniem oraz stworzenie systemu zarządzania misjami i podstawowych zachować AI.
-Link do gry: https://ozerek.itch.io/growirus
+<br>Link do gry: https://ozerek.itch.io/growirus
 
 ---
 
