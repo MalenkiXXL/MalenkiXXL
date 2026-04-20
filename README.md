@@ -16,7 +16,6 @@ Szukam pracy jako programista C++ lub developer oprogramowania, gdzie będę mó
 ![Java](https://skillicons.dev/icons?i=java)
 
 **Grafika i Silniki:**
-![OpenGL](https://skillicons.dev/icons?i=opengl)
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![Blender](https://skillicons.dev/icons?i=blender)
 
