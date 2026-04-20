@@ -8,26 +8,22 @@ Szukam pracy jako programista C++ lub developer oprogramowania, gdzie będę mó
 
 ### 🛠️ Technologie i Narzędzia
 
-<br>
-<a href="https://skillicons.dev">
-  <img src=",cs,python,java,js,unity,blender,git,github,vscode" />
-</a>
 
 **Języki i Architektura:**
 ![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_&_Design_Patterns-333333.svg?style=for-the-badge)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
 **Grafika i Silniki:**
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Unity](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![OpenGL](https://skillicons.dev/icons?i=opengl)
+![Unity](https://skillicons.dev/icons?i=unity)
+![Blender](https://skillicons.dev/icons?i=blender)
 
 **Web & Inne:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Git](https://skillicons.dev/icons?i=git)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
